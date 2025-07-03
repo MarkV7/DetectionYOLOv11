@@ -1,0 +1,7 @@
+names:
+  0: dishes
+  1: cutllery
+  2: other
+path: /content/drive/MyDrive/DetectionYOLOv11/Dataset
+train: images/train
+val: images/val
